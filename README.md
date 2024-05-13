@@ -1,4 +1,4 @@
-hello world
+hello world \n
 #include <iostream>
 using namespace std;
 int main()
